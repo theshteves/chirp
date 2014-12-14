@@ -1,0 +1,32 @@
+* {
+	font-family: Helvetica;
+}
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 10%;
+	width: 100%;
+	background-color: #333333;
+}
+h1 {
+	position: relative;
+	left: 33%;
+	color: #FFFFFF;
+}
+h2 {
+	position: absolute;
+	right: 5%;
+	bottom: -15px;
+	color: #999999;
+}
+span {
+	color: #FFFFFF;
+}
+#wallpaper {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 90%;
+	width: 100%;
+}
