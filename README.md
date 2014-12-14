@@ -1,4 +1,5 @@
 seagull-generator
 =================
 
-Funny webpage for an iconic soundbyte
+Remember those seagulls from *Finding Nemo*?  
+...now you can take them with you wherever you go.
