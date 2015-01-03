@@ -1,4 +1,4 @@
-seagull-generator
+chirp
 =================
 
 Remember those seagulls from *Finding Nemo*?  
